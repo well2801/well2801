@@ -27,6 +27,4 @@
 
 ## Um pouco sobre mim:
 
-Dei início a uma ampla e empolgante jornada no mundo da infraestrutura de TI. Desde então estou em busca por resolver problemas complexos e otimizar operações me motiva sempre a explorar novos horizontes e entregar resultados excepcionais que possam ajudar milhares de pessoas.
-
-Anseio continuar crescendo e contribuindo com a constante evolução tecnológica. Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas, meu desejo é elevar essa aprendizagem ao mais alto nível, para isso dedico-me intensamente em ingressar no mundo dos sistemas e contribuir para a otimização contínua das infraestruturas de TI.
+Iniciei uma jornada empolgante no mundo da infraestrutura de TI, buscando solucionar problemas complexos e otimizar operações. 🚀 Agora, mergulho no universo da programação, aprimorando minhas habilidades para construir soluções inovadoras que impactem positivamente a vida das pessoas. 💻 Graduando em Análise e Desenvolvimento de Sistemas, dedico-me a aprender e contribuir com a evolução tecnológica. 💡
